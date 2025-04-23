@@ -1,27 +1,40 @@
-# ProjectAngular
+🌀 Rick and Morty API Integration with Angular
+Rick and Morty is a fun Angular project that integrates with the Rick and Morty API to fetch and display data about characters, episodes, locations, and more from the popular animated TV series Rick and Morty. The application is built using Angular and TypeScript to create a dynamic and interactive UI.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+🌟 Features
+👾 Character List — Displays all characters from the series, including their name, image, and status.
 
-## Development server
+🌍 Location & Episode Details — Provides information about the episodes and locations where characters appear.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🔍 Search Functionality — Allows users to search for specific characters or episodes by name.
 
-## Code scaffolding
+🎨 Interactive UI — Smooth UI with clickable elements that show more information about each character, episode, and location.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+📱 Responsive Design — Fully responsive layout optimized for mobile and desktop devices.
 
-## Build
+🛠️ Technologies Used
+Angular (with components, services, and RxJS)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+TypeScript
 
-## Running unit tests
+HTML5, CSS3
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Rick and Morty API (RESTful API)
 
-## Running end-to-end tests
+🚀 How to Run
+1. Clone the repository:
+git clone https://github.com/TornikeKhutsishvili/Rick-and-Morty
+cd Rick-and-Morty
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Install dependencies:
+npm install
 
-## Further help
+3. Run the project:
+ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4. Open http://localhost:4200 in your browser.
+
+
+👤 Author
+Tornike Khutsishvili
+A passionate Frontend Developer who enjoys building interactive and visually appealing web applications using modern technologies like Angular.
