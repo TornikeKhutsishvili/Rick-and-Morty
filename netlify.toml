@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/travelo.html"
+  to = "/app.component.html"
   status = 200
